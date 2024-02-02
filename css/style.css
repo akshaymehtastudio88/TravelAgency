@@ -1,0 +1,196 @@
+.row.row {
+    margin-right: 0%;
+    margin-left: 0%;
+}
+a
+{
+    text-decoration: none;
+}
+.top {
+    background-color: rgba(63, 62, 62);   
+    color: white;
+    padding: 0.5%;
+}
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: red;
+}
+
+.nav-item:hover {
+    color: chartreuse;
+}
+
+.himage {
+    height: 500px;
+    opacity: 50%;
+}
+
+.himage:hover {
+    opacity: 100%;
+}
+
+.goa {
+    position: relative;
+}
+
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.slogan {
+    color: red;
+}
+
+.heading {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: black;
+}
+
+.fv,
+.au,
+.lbp {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.lbp {
+    color: white;
+}
+
+.vm,
+.rm {
+    font-size: smaller;
+    color: red;
+    text-decoration: none;
+}
+
+.cimage {
+    width: 100%;
+    height: 250px;
+}
+
+.aui {
+    width: 100%;
+    height: 350px;
+}
+
+.background {
+    padding: 3%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/Profile/bg.jpg);
+}
+
+.cu {
+    padding: 1%;
+}
+
+.cud {
+    padding: 1%;
+}
+
+.ft {
+    border: 1px;
+}
+
+.bd {
+    border-left: 1px solid lightgray;
+    padding-left: 5%;
+}
+
+.testi {
+    border: none;
+    padding: 1%;
+}
+
+.cimg {
+    width: 125px;
+    height: 125px;
+}
+
+.cb {
+    background-color: aquamarine;
+    height: 160px;
+    border: none;
+}
+
+.cf {
+    background-color: white;
+    text-align: center;
+}
+
+.bgbody {
+    background-color: white;
+    padding: 2%;
+}
+
+.card:hover {
+    box-shadow: 0px 0px 10px black;
+}
+
+.card {
+    border: none;
+}
+
+.pa {
+    color: black;
+}
+
+.pa:hover {
+    background-color: rgba(255, 0, 0, 0.103);
+    color: red;
+}
+
+.pa:focus {
+    background-color: white;
+    box-shadow: 0px 0px 10px red;
+}
+
+.active .pa {
+    border: none;
+}
+
+.pagination {
+    margin: 0 4px;
+}
+
+#search {
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 5px black;
+}
+
+.social {
+    background-color: lightgray;
+    border: none;
+    border-radius: 5%;
+    height: 40px;
+    width: 40px;
+    margin: 0.5%;
+}
+
+i {
+    color: black;
+}
+
+.social:hover {
+    box-shadow: 0px 0px 5px black;
+}
+.form:focus {
+    outline: none;
+    border: none;
+    box-shadow: 0px 0px 5px chocolate;
+}
+
+.photo {
+    height: 200px;
+    text-align: center;
+}
+
